@@ -1,0 +1,43 @@
+#largeImage
+{
+    position: absolute;
+    width: 1000px;
+    height: auto;
+    left: 0;
+    z-index: 10;
+}
+
+#largeImage:hover
+{
+    cursor: pointer;
+}
+
+#smallImage
+{
+    position: absolute;
+    width: 1000px;
+    height: auto;
+    left: 55vw;
+    z-index: 10;
+}
+
+#smallImage:hover
+{
+    cursor: pointer;
+}
+
+h1
+{
+    position: absolute;
+    z-index: 10;
+    left: 20vw;
+    font-size: 20px;
+}
+
+h2
+{
+    position: absolute;
+    z-index: 10;
+    left: 80vw;
+    font-size: 20px;
+}
